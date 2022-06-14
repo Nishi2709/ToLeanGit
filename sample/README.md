@@ -1,4 +1,3 @@
 # test
 
-branch:notPublishブランチで作成したsampleフォルダ
-
+branch:notPublishブランチで作成したsampleフォルダ.
