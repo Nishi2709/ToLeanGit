@@ -4,3 +4,4 @@ branch:change_README で変更
 </br>
 branch:notPublishブランチで変更
 develop: developブランチで変更
+test: testブランチで変更
