@@ -1,1 +1,3 @@
-infra/
+
+infra/.githooks/pre-push
+
